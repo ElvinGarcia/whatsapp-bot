@@ -1,2 +1,2 @@
 # Global variable for AUTH TOKEN
-env.yml
+config/env.yml
